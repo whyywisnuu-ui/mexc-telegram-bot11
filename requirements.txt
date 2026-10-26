@@ -1,0 +1,7 @@
+
+ccxt
+requests
+pandas==2.2.3
+pyTelegramBotAPI
+matplotlib
+mplfinance
